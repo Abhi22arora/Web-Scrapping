@@ -1,0 +1,824 @@
+[
+    {
+        "title": "Pralinés à l'Ancienne - 27 pieces",
+        "price": "£40.00",
+        "description": "Pralinés Box                                         - 240g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3340/praline-ancienne-old.jpg"
+    },
+    {
+        "title": "Discovery Box - 30 pieces",
+        "price": "£45.00",
+        "description": "Discovery Box                                         - 260g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3346/discovery-box-30-pieces-old.jpg"
+    },
+    {
+        "title": "Pépites Box - 16 pieces  - Dark",
+        "price": "£27.00",
+        "description": "Pépites Box                                         - 150g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3320/pepites-box-dark-16-pieces.jpg"
+    },
+    {
+        "title": "Discovery Box - 12 pieces",
+        "price": "£21.00",
+        "description": "Discovery Box                                         - 100g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3345/discovery-box-12-pieces-old.jpg"
+    },
+    {
+        "title": "Discovery Box - 58 pieces",
+        "price": "£83.00",
+        "description": "Discovery Box                                         - 490g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3347/discovery-box-58-pieces-old.jpg"
+    },
+    {
+        "title": "Double-bites Box - 4 pieces",
+        "price": "£15.00",
+        "description": "Discovery Box                                         - 85g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3344/double-bites-box-4.jpg"
+    },
+    {
+        "title": "Flavored Ganaches",
+        "price": "£30.00",
+        "description": "Ganaches Box                                         - 170g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3339/flavoured-ganache-old.jpg"
+    },
+    {
+        "title": "Flavored Ganaches & Single-Origin Ganaches",
+        "price": "£73.00",
+        "description": "Ganaches Box                                         - 440g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3336/single-origin-flavoured-ganache.jpg"
+    },
+    {
+        "title": "Single-Origin Ganaches & Pralinés à l'Ancienne",
+        "price": "£83.00",
+        "description": "Discovery Box                                         - 510g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3337/single-origin-ganache-praline-ancienne.jpg"
+    },
+    {
+        "title": "Flavored Ganaches & Pralinés à l'Ancienne",
+        "price": "£72.00",
+        "description": "Discovery Box                                         - 440g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3335/ganache-flavoured-praline-ancienne-old.jpg"
+    },
+    {
+        "title": "6 chocolate bars Box",
+        "price": "£56.00",
+        "description": "490g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3291/box-bars.jpg"
+    },
+    {
+        "title": "Small Essentials Box",
+        "price": "£31.00",
+        "description": "190g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3350/box-essentials-small.jpg"
+    },
+    {
+        "title": "Square Bites Box - 50 pieces",
+        "price": "£30.00",
+        "description": "250g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/4254/square-bites-box-50-pieces.jpg"
+    },
+    {
+        "title": "Discovery Box - 45 pieces",
+        "price": "£65.00",
+        "description": "Discovery Box                                         - 380g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3342/discovery-box-45-pieces-old.jpg"
+    },
+    {
+        "title": "Pépites box - 36 pieces",
+        "price": "£57.00",
+        "description": "Pépites Box                                         - 337g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/4289/pepites-box-36-pieces.jpg"
+    },
+    {
+        "title": "Pralinés à l'Ancienne - 39 pieces",
+        "price": "£54.00",
+        "description": "Pralinés Box                                         - 345g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3352/praline-ancienne-39-pieces-old.jpg"
+    },
+    {
+        "title": "Discovery Box - 21 pieces",
+        "price": "£32.00",
+        "description": "Discovery Box                                         - 170g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/4323/discovery-box-21-pieces.jpg"
+    },
+    {
+        "title": "Pépites Box - 16 pieces - Milk",
+        "price": "£27.00",
+        "description": "Pépites Box                                         - 150g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3321/pepites-box-milk-16-pieces.jpg"
+    },
+    {
+        "title": "Discovery Box - 90 pieces",
+        "price": "£128.00",
+        "description": "Discovery Box                                         - 760g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3343/discovery-box-90-pieces.jpg"
+    },
+    {
+        "title": "Single-Origin Ganaches",
+        "price": "£42.00",
+        "description": "Ganaches Box                                         - 240g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3338/single-origin-ganache-chocolate.jpg"
+    },
+    {
+        "title": "Large Essentials Box",
+        "price": "£56.00",
+        "description": "365g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3351/box-essentials-large.jpg"
+    },
+    {
+        "title": "Cocorico Box 16 Pieces",
+        "price": "£29.00",
+        "description": "Pépites Box                                         - 160g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3956/coffret-cocorico-16-pepittes.jpg"
+    },
+    {
+        "title": "Square Bites Box - 30 pieces",
+        "price": "£20.00",
+        "description": "150g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3348/square-chocolate-bites-box-30-pieces.jpg"
+    },
+    {
+        "title": "6 chocolate bars Box",
+        "price": "£56.00",
+        "description": "490g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3291/box-bars.jpg"
+    },
+    {
+        "title": "Rustic Peru",
+        "price": "£10.00",
+        "description": "Signature Bar                                         - 75g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3276/perou-rustic-tradition-chocolate-bar-dark.jpg"
+    },
+    {
+        "title": "Extra Dark",
+        "price": "£10.00",
+        "description": "Signature Bar                                         - 75g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3269/single-origin-bar-dark-peru-100.jpg"
+    },
+    {
+        "title": "The Blend",
+        "price": "£10.00",
+        "description": "Signature Bar                                         - 75g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3310/signature-bar-dark-the-blend-75.jpg"
+    },
+    {
+        "title": "Sugar-free",
+        "price": "£10.00",
+        "description": "Signature Bar                                         - 75g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3298/tradition-bar-dark-sugar-free.jpg"
+    },
+    {
+        "title": "Rustic Madagascar",
+        "price": "£10.00",
+        "description": "Signature Bar                                         - 75g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3277/tradition-bar-madagascar-milk-rustic.jpg"
+    },
+    {
+        "title": "Coconut Milk",
+        "price": "£9.00",
+        "description": "Signature Bar                                         - 75g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3323/vegan-chocolate-bar-coconut-milk-45.jpg"
+    },
+    {
+        "title": "Triumph Bar",
+        "price": "£15.00",
+        "description": "French Hazelnuts & Almonds                                         - 110g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/4284/triumph-bar-milk.jpg"
+    },
+    {
+        "title": "Chopped Pistachios",
+        "price": "£13.00",
+        "description": "Mendiant Bar                                         - 100g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3401/mendiant-bar-dark-chopped-pistachio.jpg"
+    },
+    {
+        "title": "Caramelised hazelnut",
+        "price": "£13.00",
+        "description": "Mendiant Bar                                         - 100g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3403/mendiant-bar-dark-caramelized-hazelnut.jpg"
+    },
+    {
+        "title": "Caramelised almonds",
+        "price": "£13.00",
+        "description": "Mendiant Bar                                         - 100g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3405/mendiant-bar-caramelised-almond.jpg"
+    },
+    {
+        "title": "Almonds & candied oranges & figs",
+        "price": "£13.00",
+        "description": "Mendiant Bar                                         - 100g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3407/mendiant-bar-dark-almond-candied-orange-fig.jpg"
+    },
+    {
+        "title": "Caramelised almonds",
+        "price": "£13.00",
+        "description": "Mendiant Bar                                         - 100g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3409/mendiant-bar-milk-caramelized-almond.jpg"
+    },
+    {
+        "title": "Almonds & candied oranges & figs",
+        "price": "£13.00",
+        "description": "Mendiant Bar                                         - 100g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3411/mendiant-bar-milk-almond-orange-fig.jpg"
+    },
+    {
+        "title": "Chopped Pistachios",
+        "price": "£13.00",
+        "description": "Mendiant Bar                                         - 100g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3413/mendiant-bar-milk-chopped-pistachio.jpg"
+    },
+    {
+        "title": "Nougatine & fleur de sel",
+        "price": "£13.00",
+        "description": "Mendiant Bar                                         - 100g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3399/mendiant-bar-dark-nougatine-fleur-de-sel.jpg"
+    },
+    {
+        "title": "Nougatine & fleur de sel",
+        "price": "£13.00",
+        "description": "Mendiant Bar                                         - 100g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3423/mendiant-bar-milk-nougatine-fleur-sel.jpg"
+    },
+    {
+        "title": "Caremelised hazelnut",
+        "price": "£13.00",
+        "description": "Mendiant Bar                                         - 100g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3415/mendiant-bar-milk-caramelized-hazelnut.jpg"
+    },
+    {
+        "title": "Ecuador National Arriba",
+        "price": "£12.00",
+        "description": "Grand Cru Bar                                         - 75g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3299/single-origin-bar-equador-85.jpg"
+    },
+    {
+        "title": "Madagascar Mivoatra",
+        "price": "£12.00",
+        "description": "Grand Cru Bar                                         - 75g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3398/madagascar-mivoatra-bar.jpg"
+    },
+    {
+        "title": "Tanzanie",
+        "price": "£9.00",
+        "description": "Grand Cru Bar                                         - 75g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3390/tanzanie.jpg"
+    },
+    {
+        "title": "Vietnam",
+        "price": "£9.00",
+        "description": "Grand Cru Bar                                         - 75g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3278/single-origin-bar-dark-vietnam-75.jpg"
+    },
+    {
+        "title": "Philippines Trinitario",
+        "price": "£12.00",
+        "description": "Grand Cru Bar                                         - 75g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3322/single-origin-bar-dark-philippines-trinitario-75.jpg"
+    },
+    {
+        "title": "Peru Chuncho",
+        "price": "£12.00",
+        "description": "Tablette Origine                                         - 75g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3311/single-origin-bar-dark-chuncho-peru-75-grand-cru.jpg"
+    },
+    {
+        "title": "Colombie Criollo",
+        "price": "£12.00",
+        "description": "Grand Cru Bar                                         - 75g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3388/colombie-criollo.jpg"
+    },
+    {
+        "title": "Venezuela Chuao",
+        "price": "£12.00",
+        "description": "Grand Cru Bar                                         - 75g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3272/single-origin-bar-dark-chuao-75.jpg"
+    },
+    {
+        "title": "Madagascar Criollo & Trinitario",
+        "price": "£12.00",
+        "description": "Grand Cru Bar                                         - 75g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3296/single-origin-bar-dark-madagascar-75-grand-cru.jpg"
+    },
+    {
+        "title": "Mexico Criollo & Almendra Blanca",
+        "price": "£12.00",
+        "description": "Grand Cru Bar                                         - 75g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3297/single-origin-dark-mexico-75-grand-cru.jpg"
+    },
+    {
+        "title": "Sao Tome & Principe Amelonado",
+        "price": "£12.00",
+        "description": "Grand Cru Bar                                         - 75g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3312/single-origin-bar-dark-sao-tome-amelonado-75-grand-cru.jpg"
+    },
+    {
+        "title": "Equateur",
+        "price": "£9.00",
+        "description": "Grand Cru Bar                                         - 75g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3551/equateur-milk-chocolate.jpg"
+    },
+    {
+        "title": "Togo",
+        "price": "£9.00",
+        "description": "Grand Cru Bar                                         - 75g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3550/togo-chocolate-milk.jpg"
+    },
+    {
+        "title": "Madagascar",
+        "price": "£9.00",
+        "description": "Grand Cru Bar                                         - 75g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3552/single-origin-bar-madagascar-milk-55.jpg"
+    },
+    {
+        "title": "Madagascar",
+        "price": "£9.00",
+        "description": "Grand Cru Bar                                         - 75g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3273/single-origin-bar-milk-madagascar-45.jpg"
+    },
+    {
+        "title": "Madagascar",
+        "price": "£9.00",
+        "description": "Grand Cru Bar                                         - 75g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3553/single-origin-bar-milk-madagascar-35.jpg"
+    },
+    {
+        "title": "Coconut Praliné",
+        "price": "£15.00",
+        "description": "Filled Bar                                         - 110g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3481/filled-bar-dark-coconut-praline.jpg"
+    },
+    {
+        "title": "Hazelnut praliné & fleur de sel",
+        "price": "£15.00",
+        "description": "Filled Bar                                         - 110g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3417/filled-bar-dark-hazelnut-praline-fleur-sel.jpg"
+    },
+    {
+        "title": "Hazelnut praliné & fleur de sel",
+        "price": "£15.00",
+        "description": "Filled Bar                                         - 110g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3425/filled-bar-milk-hazelnut-praline-fleur-sel.jpg"
+    },
+    {
+        "title": "Pistachio-flavoured Marzipan",
+        "price": "£15.00",
+        "description": "Filled Bar                                         - 110g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3419/filled-bar-dark-pistachio-flavoured-marzipan.jpg"
+    },
+    {
+        "title": "Smooth Caramel",
+        "price": "£15.00",
+        "description": "Filled Bar                                         - 120g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3427/filled-bar-dark-smooth-caramel.jpg"
+    },
+    {
+        "title": "Smooth Caramel",
+        "price": "£15.00",
+        "description": "Filled Bar                                         - 120g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3433/filled-bar-milk-smooth-caramel.jpg"
+    },
+    {
+        "title": "French Hexagon Mendiant",
+        "price": "£26.00",
+        "description": "French Bar                                         - 180g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3318/french-hexagon-mendiant-milk.jpg"
+    },
+    {
+        "title": "French Hexagon Mendiant",
+        "price": "£26.00",
+        "description": "French Bar                                         - 180g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3317/french-hexagon-mendiant-dark.jpg"
+    },
+    {
+        "title": "French Nuts & Candied fruits",
+        "price": "£15.00",
+        "description": "French Bar                                         - 110g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3930/nuts-candied-fruits-elysee-bar-dark.jpg"
+    },
+    {
+        "title": "French Nuts & Candied Fruits",
+        "price": "£15.00",
+        "description": "French Bar                                         - 110g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3931/fruits-secs-confits-francais-tablette-elysee-lait.jpg"
+    },
+    {
+        "title": "Giant Chocolate bars",
+        "price": "£73.00",
+        "description": "Chocolate Block                                         - 1kg",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3290/giant-chocolate-bar-dark.jpg"
+    },
+    {
+        "title": "Giant Chocolate bars",
+        "price": "£73.00",
+        "description": "Chocolate Block                                         - 1kg",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3305/giant-chocolate-bar-milk.jpg"
+    },
+    {
+        "title": "Square Bites Box - 50 pieces",
+        "price": "£30.00",
+        "description": "250g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/4254/square-bites-box-50-pieces.jpg"
+    },
+    {
+        "title": "Triumph Bar",
+        "price": "£15.00",
+        "description": "French Hazelnuts & Almonds                                         - 110g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/4282/triumph-bar-dark.jpg"
+    },
+    {
+        "title": "Praliné Triumph Hexagon",
+        "price": "£15.00",
+        "description": "Pistachio & Almond Praliné from France                                         - 70g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/4281/triumph-hexagone-milk.jpg"
+    },
+    {
+        "title": "Cocoa Pods Bar",
+        "price": "£13.00",
+        "description": "75g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/4015/cocoa-pods-bar.jpg"
+    },
+    {
+        "title": "Java",
+        "price": "£9.00",
+        "description": "Grand Cru Bar                                         - 75g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3270/single-origin-bar-dark-java-75.jpg"
+    },
+    {
+        "title": "Bolivia Wild Cocoa",
+        "price": "£12.00",
+        "description": "Grand Cru Bar                                         - 75g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3309/single-origin-bar-dark-bolivia-75.jpg"
+    },
+    {
+        "title": "Brazil Forastero Blanco",
+        "price": "£12.00",
+        "description": "Grand Cru Bar                                         - 75g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3308/single-origin-bar-dark-cru-brasil-75.jpg"
+    },
+    {
+        "title": "Peru",
+        "price": "£9.00",
+        "description": "Grand Cru Bar                                         - 75g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3274/single-origin-bar-milk-peru-45.jpg"
+    },
+    {
+        "title": "Praliné Triumph Hexagone",
+        "price": "£15.00",
+        "description": "Pistachio & Almond Praliné from France                                         - 70g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/4277/triumph-hexagone-dark.jpg"
+    },
+    {
+        "title": "Pistachio praliné",
+        "price": "£15.00",
+        "description": "Filled Bar                                         - 110g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3421/filled-bar-dark-pistachio-praline.jpg"
+    },
+    {
+        "title": "Petit Coq",
+        "price": "£6.00",
+        "description": "25g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3961/little-rooster-dark.jpg"
+    },
+    {
+        "title": "Little Rooster",
+        "price": "£6.00",
+        "description": "25g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3962/little-rooster-milk.jpg"
+    },
+    {
+        "title": "French Hexagon Praliné",
+        "price": "£18.00",
+        "description": "French Bar                                         - 80g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3429/french-hexagon-dark-praline.jpg"
+    },
+    {
+        "title": "French Hexagon Praliné",
+        "price": "£18.00",
+        "description": "French Bar                                         - 80g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3431/french-hexagon-milk-praline.jpg"
+    },
+    {
+        "title": "Square Bites Box - 30 pieces",
+        "price": "£20.00",
+        "description": "150g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3348/square-chocolate-bites-box-30-pieces.jpg"
+    },
+    {
+        "title": "Hazelnut Chocolate spread XL",
+        "price": "£40.00",
+        "description": "550g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3301/chocolate-spread-xl.jpg"
+    },
+    {
+        "title": "Hot Chocolate mix",
+        "price": "£25.00",
+        "description": "300g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3292/hot-chocolate-mix.jpg"
+    },
+    {
+        "title": "Chocobar - Dark",
+        "price": "£9.00",
+        "description": "60g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/4016/chocobar.jpg"
+    },
+    {
+        "title": "Chocobar - Milk",
+        "price": "£9.00",
+        "description": "60g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/4017/chocobar-milk.jpg"
+    },
+    {
+        "title": "Sesame Chocobar",
+        "price": "£9.00",
+        "description": "60g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/4018/chocobar-sesame-dark.jpg"
+    },
+    {
+        "title": "Chocolate Bars  - Milk",
+        "price": "£25.00",
+        "description": "240g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3302/chocolate-single-bar-milk.jpg"
+    },
+    {
+        "title": "Chocolate Bars  - Dark Praliné",
+        "price": "£25.00",
+        "description": "240g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3306/chocolate-single-bar-dark.jpg"
+    },
+    {
+        "title": "Square Bites Box - 50 pieces",
+        "price": "£30.00",
+        "description": "250g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/4254/square-bites-box-50-pieces.jpg"
+    },
+    {
+        "title": "Hazelnut Chocolate spread",
+        "price": "£20.00",
+        "description": "250g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3294/chocolate-spread.jpg"
+    },
+    {
+        "title": "Peanut Chocolate Spread",
+        "price": "£20.00",
+        "description": "250g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3315/peanut-chocolate-spread.jpg"
+    },
+    {
+        "title": "Square Bites Box - 30 pieces",
+        "price": "£20.00",
+        "description": "150g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3348/square-chocolate-bites-box-30-pieces.jpg"
+    },
+    {
+        "title": "Soveria candied Citrus trio",
+        "price": "from £23.00",
+        "description": "from 150g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3254/soveria-candied-fruit-citrus-trio.jpg"
+    },
+    {
+        "title": "Soveria candied Oranges",
+        "price": "from £23.00",
+        "description": "from 150g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3256/soveria-candied-fruit-orange.jpg"
+    },
+    {
+        "title": "Soveria candied Ginger",
+        "price": "from £23.00",
+        "description": "from 150g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3262/soveria-candied-fruit-ginger.jpg"
+    },
+    {
+        "title": "Small Essentials Box",
+        "price": "£31.00",
+        "description": "190g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3350/box-essentials-small.jpg"
+    },
+    {
+        "title": "Croc'",
+        "price": "from £16.00",
+        "description": "from 150g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3570/croc.jpg"
+    },
+    {
+        "title": "Roc's  - Hazelnut",
+        "price": "from £16.00",
+        "description": "from 100g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/4253/hazelnut-roc-milk.jpg"
+    },
+    {
+        "title": "Roc's - Almond",
+        "price": "from £16.00",
+        "description": "",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/4059/almond-roc-dark.jpg"
+    },
+    {
+        "title": "Dragées - Hazelnut",
+        "price": "from £22.00",
+        "description": "from 150g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3247/hazelnut-dragee-milk.jpg"
+    },
+    {
+        "title": "Dragées - Hazelnut",
+        "price": "from £22.00",
+        "description": "from 150g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3249/hazelnut-dragee-dark.jpg"
+    },
+    {
+        "title": "Dragées - Almond",
+        "price": "from £22.00",
+        "description": "from 150g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/4036/almond-dragee-milk.jpg"
+    },
+    {
+        "title": "Dragées - Almond",
+        "price": "from £22.00",
+        "description": "from 150g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3245/almond-dragee-dark.jpg"
+    },
+    {
+        "title": "Square Bites Box - 50 pieces",
+        "price": "£30.00",
+        "description": "250g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/4254/square-bites-box-50-pieces.jpg"
+    },
+    {
+        "title": "Large Essentials Box",
+        "price": "£56.00",
+        "description": "365g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3351/box-essentials-large.jpg"
+    },
+    {
+        "title": "Square Bites Box - 30 pieces",
+        "price": "£20.00",
+        "description": "150g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3348/square-chocolate-bites-box-30-pieces.jpg"
+    },
+    {
+        "title": "Pralinés à l'Ancienne - 27 pieces",
+        "price": "£40.00",
+        "description": "Pralinés Box                                         - 240g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3340/praline-ancienne-old.jpg"
+    },
+    {
+        "title": "6 chocolate bars Box",
+        "price": "£56.00",
+        "description": "490g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3291/box-bars.jpg"
+    },
+    {
+        "title": "Square Bites Box - 50 pieces",
+        "price": "£30.00",
+        "description": "250g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/4254/square-bites-box-50-pieces.jpg"
+    },
+    {
+        "title": "Discovery Box - 58 pieces",
+        "price": "£83.00",
+        "description": "Discovery Box                                         - 490g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3347/discovery-box-58-pieces-old.jpg"
+    },
+    {
+        "title": "Flavored Ganaches",
+        "price": "£30.00",
+        "description": "Ganaches Box                                         - 170g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3339/flavoured-ganache-old.jpg"
+    },
+    {
+        "title": "Coconut Praliné",
+        "price": "£15.00",
+        "description": "Filled Bar                                         - 110g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3481/filled-bar-dark-coconut-praline.jpg"
+    },
+    {
+        "title": "Caramelised almonds",
+        "price": "£13.00",
+        "description": "Mendiant Bar                                         - 100g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3409/mendiant-bar-milk-caramelized-almond.jpg"
+    },
+    {
+        "title": "Chocolate Bars  - Milk",
+        "price": "£25.00",
+        "description": "240g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3302/chocolate-single-bar-milk.jpg"
+    },
+    {
+        "title": "Hazelnut Chocolate spread XL",
+        "price": "£40.00",
+        "description": "550g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3301/chocolate-spread-xl.jpg"
+    },
+    {
+        "title": "Triumph Bar",
+        "price": "£15.00",
+        "description": "French Hazelnuts & Almonds                                         - 110g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/4282/triumph-bar-dark.jpg"
+    },
+    {
+        "title": "Praliné Triumph Hexagon",
+        "price": "£15.00",
+        "description": "Pistachio & Almond Praliné from France                                         - 70g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/4281/triumph-hexagone-milk.jpg"
+    },
+    {
+        "title": "Coffret cadeau découverte",
+        "price": "£0.00",
+        "description": "210g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/2666/coffret-cadeau-decouverte.jpg"
+    },
+    {
+        "title": "Discovery Box - 45 pieces",
+        "price": "£65.00",
+        "description": "Discovery Box                                         - 380g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3342/discovery-box-45-pieces-old.jpg"
+    },
+    {
+        "title": "Pépites box - 36 pieces",
+        "price": "£57.00",
+        "description": "Pépites Box                                         - 337g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/4289/pepites-box-36-pieces.jpg"
+    },
+    {
+        "title": "Large Essentials Box",
+        "price": "£56.00",
+        "description": "365g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3351/box-essentials-large.jpg"
+    },
+    {
+        "title": "Single-Origin Ganaches",
+        "price": "£42.00",
+        "description": "Ganaches Box                                         - 240g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3338/single-origin-ganache-chocolate.jpg"
+    },
+    {
+        "title": "Discovery Box - 90 pieces",
+        "price": "£128.00",
+        "description": "Discovery Box                                         - 760g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3343/discovery-box-90-pieces.jpg"
+    },
+    {
+        "title": "Pépites Box - 16 pieces - Milk",
+        "price": "£27.00",
+        "description": "Pépites Box                                         - 150g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/3321/pepites-box-milk-16-pieces.jpg"
+    },
+    {
+        "title": "Discovery Box - 21 pieces",
+        "price": "£32.00",
+        "description": "Discovery Box                                         - 170g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/4323/discovery-box-21-pieces.jpg"
+    },
+    {
+        "title": "Espresso - Coffee beans",
+        "price": "from £15.00",
+        "description": "Signature Coffee                                         - 250g or 1kg",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/4212/espresso-coffee-beans.jpg"
+    },
+    {
+        "title": "The Italian - Coffee beans",
+        "price": "from £15.00",
+        "description": "Coffee Blend                                         - 250g or 1kg",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/4213/italian-coffee-beans.jpg"
+    },
+    {
+        "title": "The Filter - Coffee beans",
+        "price": "£15.00",
+        "description": "Signature Coffee                                         - 250g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/4214/filter-coffee-beans.jpg"
+    },
+    {
+        "title": "The Paradox - Decaf coffee beans",
+        "price": "£15.00",
+        "description": "Decaf Coffee                                         - 250g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/4215/paradox-coffee-beans.jpg"
+    },
+    {
+        "title": "Ethiopia - Coffee beans",
+        "price": "£20.00",
+        "description": "Cru d'Exception Coffee                                         - 250g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/4216/ethiopia-coffee-beans.jpg"
+    },
+    {
+        "title": "Colombia - Coffee beans",
+        "price": "£20.00",
+        "description": "Cru d'Exception Coffee                                         - 250g",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/4217/colombia-coffee-beans.jpg"
+    },
+    {
+        "title": "Espresso - 15 coffee capsules",
+        "price": "£12.00",
+        "description": "Signature Coffee",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/4218/coffee-capsules-espresso.jpg"
+    },
+    {
+        "title": "The Italian - 15 coffee capsules",
+        "price": "£12.00",
+        "description": "Coffee Blend",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/4219/coffee-capsules-italian.jpg"
+    },
+    {
+        "title": "The Paradox - 15 decaf coffee capsules",
+        "price": "£12.00",
+        "description": "Decaf Coffee",
+        "image_url": "https://www.lechocolat-alainducasse.com/uk/4220/paradoxe-capsules.jpg"
+    }
+]
